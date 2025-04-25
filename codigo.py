@@ -1,4 +1,4 @@
-nombre = "José María"
+nombre = "Pepe"
 apellido = "Benedetti"
 
 print (nombre + " " + apellido + " ")
